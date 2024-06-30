@@ -1,0 +1,16 @@
+^C
+^c
+image (14).jpg
+image (173).jpg
+
+
+^C
+ ^C
+^c
+-c
+-Clear
+darknet.exe detector demo data/obj.data cfg/yolov4-tiny-obj.cfg backup/yolov4-tiny-obj_last.weights yangin1080.mp4 thresh 0.4
+dop.png
+dog.png
+image1.png
+image1.jpg
